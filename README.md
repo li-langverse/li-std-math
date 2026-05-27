@@ -1,5 +1,7 @@
 # li-std-math
 
+*Spatial math for Li — vectors, quaternions, matrices for HPC physics and scientific computing (lip).*
+
 Spatial math for physics and rendering: `Vec2/3/4`, `Quat`, `Mat4`, `AABB`, array `dot`/`sum` helpers.
 
 ## API highlights

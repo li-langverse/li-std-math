@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- GitHub repo description and README tagline (WP-A4); `.github/repo-description`.
+
 ### Added
 
 - `Vec2/3/4`, `Quat`, `Mat4`, `Aabb` types; dot, cross, normalize, lerp, quat/mat ops
