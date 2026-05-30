@@ -18,6 +18,13 @@ lic build src/lib.li -o li-std-math
 
 From the monorepo root, ensure `lic` is built: `./scripts/build.sh`.
 
+## Docs
+
+| Doc | Content |
+|-----|---------|
+| [Published handbook (li-std-math)](https://li-langverse.github.io/li-language/ecosystem/li-std-math/) | Org status on **li-language** Pages (after **lic** deploy) |
+| [docs/handbook.md](docs/handbook.md) | Cross-links to math plan and provability gaps |
+
 ## Traceability
 
 | ID | Link |
