@@ -1,4 +1,4 @@
-# li-std-math
+﻿# li-std-math
 
 Spatial math for physics and rendering: `Vec2/3/4`, `Quat`, `Mat4`, `AABB`, array `dot`/`sum` helpers.
 
@@ -28,4 +28,4 @@ See `PUBLISH.md`, [docs/handbook.md](docs/handbook.md), and [live handbook](http
 
 ## License
 
-Apache-2.0 OR MIT
+GPL-3.0-or-later OR MIT
